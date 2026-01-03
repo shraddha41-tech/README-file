@@ -1,7 +1,7 @@
 # README-file
 # 👩‍💻 CSE Beginner | Learning to Code
 
-Hi! I'm a **Computer Science Engineering (CSE) student** and this repository is part of my learning journey in programming and computer science fundamentals.
+Hi! I'm Shraddha Shah, a **Computer Science and Engineering (CSE) student** and this repository is part of my learning journey in programming and computer science fundamentals.
 
 ## 🚀 About Me
 - 🎓 CSE Student  
@@ -11,7 +11,7 @@ Hi! I'm a **Computer Science Engineering (CSE) student** and this repository is 
 
 ## 🛠️ Skills (Beginner Level)
 - Programming Basics  
-- C / C++ / Python (learning stage)
+- C / C++ / Java (learning stage)
 - Data Structures & Algorithms (basics)
 - Database Concepts (intro level)
 - HTML & CSS (basic)
@@ -26,16 +26,12 @@ This repository contains:
 ## 📚 Currently Learning
 - Data Structures  
 - Object-Oriented Programming  
-- DBMS fundamentals  
 - Operating Systems basics  
 
 ## 🎯 Goals
 - Build strong programming fundamentals  
 - Improve logical thinking  
 - Contribute to open-source in the future  
-- Become a skilled software engineer  
-
-## 🤝 Connect With Me
-- GitHub: *You're already here!* 😊  
+- Become a skilled software engineer
 
 ⭐ Feel free to explore my repositories and follow my learning journey!
